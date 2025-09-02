@@ -1,6 +1,5 @@
 import React from 'react'
 import { useState } from 'react'
-import { dottedNumber } from '../functions/function'
 import { formatIndianNumber } from '../functions/function'
 
 const IncomeExpenseBox = ({ income , expense}) => {
