@@ -1,9 +1,9 @@
 {
   "name": "expense_tracker",
-  "private": true,
+  "homepage": "https://AljasMuthukadan.github.io/expense_tracker",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AljasMuthukadan.github.io/Expense_tracker",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
